@@ -76,7 +76,7 @@ The goal is to find:
 ### I. Clone the repository:
 
 ```python
-git clone https://github.com/ntphuc149/ViLQA.git
+git clone https://github.com/Sup3r-H4ck3r/ViLQA.git
 ```
 
 ### II. Choose the approach to EQA
